@@ -21,7 +21,7 @@
 html {
 	width: 100%;
 	height: 100%;
-	background-color: gray;
+	background-color: #9900CC;
 }
 
 body {
@@ -30,7 +30,7 @@ body {
 	height: 96%;
 	margin: 0.8em auto;
 	font-family: 'Lato', Calibri, Arial, sans-serif;
-	background-color: lightgray;
+	background-color: #9966CC;
 	text-align: center;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -170,7 +170,7 @@ h1 {
 
 .game {
 	position: relative;
-	background-color: #CCFFFF;
+	background-color: #33CCFF;
 	width: 450px;
 	height: 450px;
 	-webkit-border-radius: 4px;
